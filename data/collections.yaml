@@ -1,0 +1,126 @@
+# Relay Collections
+#
+# Organize relays into discoverable collections
+# A relay can belong to multiple collections
+
+collections:
+  - id: "popular"
+    name: "Popular"
+    description: "Relays with a large user base and high activity levels"
+    relays:
+      - "wss://pyramid.fiatjaf.com/"
+      - "wss://theforest.nostr1.com/"
+      - "wss://relays.land/spatianostra"
+      - "wss://140.f7z.io/"
+
+  - id: "special"
+    name: "Specialized & Algorithmic"
+    description: "Relays with unique content curation algorithms and specialized filtering mechanisms"
+    relays:
+      - "wss://lockbox.relays.land/"
+      - "wss://impromptu.relays.land/"
+      - "wss://feedback.relays.land/"
+      - "wss://pow.relays.land/"
+      - "wss://zapbox.relays.land/"
+      - "wss://bookmarks.relays.land/"
+      - "wss://personal.relays.land/"
+      - "wss://news.utxo.one/"
+      - "wss://relay.stream/"
+
+  - id: "community"
+    name: "Community & Curated"
+    description: "Relays that focus on community-driven content and curation"
+    relays:
+      - "wss://theforest.nostr1.com/"
+      - "wss://relays.land/spatianostra"
+      - "wss://relay.nostr.moe/"
+
+  - id: "language"
+    name: "Language Communities"
+    description: "Relays designed for specific language communities"
+    relays:
+      - "wss://yabu.me/" # Japanese (aggregator)
+      - "wss://lang.relays.land/af" # Afrikaans
+      - "wss://lang.relays.land/ar" # Arabic
+      - "wss://lang.relays.land/az" # Azerbaijani
+      - "wss://lang.relays.land/be" # Belarusian
+      - "wss://lang.relays.land/bg" # Bulgarian
+      - "wss://lang.relays.land/bn" # Bengali
+      - "wss://lang.relays.land/bs" # Bosnian
+      - "wss://lang.relays.land/ca" # Catalan
+      - "wss://lang.relays.land/cs" # Czech
+      - "wss://lang.relays.land/cy" # Welsh
+      - "wss://lang.relays.land/da" # Danish
+      - "wss://lang.relays.land/de" # German
+      - "wss://lang.relays.land/el" # Greek
+      - "wss://lang.relays.land/eo" # Esperanto
+      - "wss://lang.relays.land/es" # Spanish
+      - "wss://lang.relays.land/et" # Estonian
+      - "wss://lang.relays.land/eu" # Basque
+      - "wss://lang.relays.land/fa" # Persian
+      - "wss://lang.relays.land/fi" # Finnish
+      - "wss://lang.relays.land/fr" # French
+      - "wss://lang.relays.land/ga" # Irish
+      - "wss://lang.relays.land/gu" # Gujarati
+      - "wss://lang.relays.land/he" # Hebrew
+      - "wss://lang.relays.land/hi" # Hindi
+      - "wss://lang.relays.land/hr" # Croatian
+      - "wss://lang.relays.land/hu" # Hungarian
+      - "wss://lang.relays.land/hy" # Armenian
+      - "wss://lang.relays.land/id" # Indonesian
+      - "wss://lang.relays.land/is" # Icelandic
+      - "wss://lang.relays.land/it" # Italian
+      - "wss://lang.relays.land/ja" # Japanese
+      - "wss://lang.relays.land/ka" # Georgian
+      - "wss://lang.relays.land/kk" # Kazakh
+      - "wss://lang.relays.land/ko" # Korean
+      - "wss://lang.relays.land/la" # Latin
+      - "wss://lang.relays.land/lg" # Ganda
+      - "wss://lang.relays.land/lt" # Lithuanian
+      - "wss://lang.relays.land/lv" # Latvian
+      - "wss://lang.relays.land/mi" # Maori
+      - "wss://lang.relays.land/mk" # Macedonian
+      - "wss://lang.relays.land/mn" # Mongolian
+      - "wss://lang.relays.land/mr" # Marathi
+      - "wss://lang.relays.land/ms" # Malay
+      - "wss://lang.relays.land/nb" # Bokmal
+      - "wss://lang.relays.land/nl" # Dutch
+      - "wss://lang.relays.land/nn" # Nynorsk
+      - "wss://lang.relays.land/pa" # Punjabi
+      - "wss://lang.relays.land/pl" # Polish
+      - "wss://lang.relays.land/pt" # Portuguese
+      - "wss://lang.relays.land/ro" # Romanian
+      - "wss://lang.relays.land/ru" # Russian
+      - "wss://lang.relays.land/sk" # Slovak
+      - "wss://lang.relays.land/sl" # Slovene
+      - "wss://lang.relays.land/sn" # Shona
+      - "wss://lang.relays.land/so" # Somali
+      - "wss://lang.relays.land/sq" # Albanian
+      - "wss://lang.relays.land/sr" # Serbian
+      - "wss://lang.relays.land/st" # Sotho
+      - "wss://lang.relays.land/sv" # Swedish
+      - "wss://lang.relays.land/sw" # Swahili
+      - "wss://lang.relays.land/ta" # Tamil
+      - "wss://lang.relays.land/te" # Telugu
+      - "wss://lang.relays.land/th" # Thai
+      - "wss://lang.relays.land/tl" # Tagalog
+      - "wss://lang.relays.land/tn" # Tswana
+      - "wss://lang.relays.land/tr" # Turkish
+      - "wss://lang.relays.land/ts" # Tsonga
+      - "wss://lang.relays.land/uk" # Ukrainian
+      - "wss://lang.relays.land/ur" # Urdu
+      - "wss://lang.relays.land/vi" # Vietnamese
+      - "wss://lang.relays.land/xh" # Xhosa
+      - "wss://lang.relays.land/yo" # Yoruba
+      - "wss://lang.relays.land/zh" # Chinese
+      - "wss://lang.relays.land/zu" # Zulu
+
+  - id: "global"
+    name: "Global & General"
+    description: "Relays with a broad, international user base and diverse content"
+    relays:
+      - "wss://relay.damus.io/"
+      - "wss://nos.lol/"
+      - "wss://nostr.mom/"
+      - "wss://relay.primal.net/"
+      - "wss://nostr.wine/"

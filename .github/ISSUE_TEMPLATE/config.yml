@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/CodyTseng/awesome-nostr-relays/discussions
+    about: Ask questions, share ideas, or discuss the project
+  - name: 📖 Contributing Guide
+    url: https://github.com/CodyTseng/awesome-nostr-relays/blob/master/CONTRIBUTING.md
+    about: Learn how to contribute to the project

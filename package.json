@@ -1,0 +1,29 @@
+{
+  "name": "awesome-nostr-relays",
+  "version": "1.0.0",
+  "description": "A curated collection of interesting Nostr relays",
+  "scripts": {
+    "build": "tsx scripts/build.ts",
+    "validate": "tsx scripts/validate.ts",
+    "dev": "tsx scripts/build.ts --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "yaml": "^2.8.1"
+  },
+  "keywords": [
+    "nostr",
+    "relay",
+    "decentralized",
+    "social",
+    "protocol"
+  ],
+  "author": "CodyTseng",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodyTseng/awesome-nostr-relays"
+  }
+}
