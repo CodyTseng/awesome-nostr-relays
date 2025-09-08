@@ -35,6 +35,7 @@ collections:
       - "wss://relays.land/spatianostra"
       - "wss://relay.nostr.moe/"
       - "wss://noornode.nostr1.com/"
+      - "wss://primus.nostr1.com/"
 
   - id: "language"
     name: "Language Communities"
