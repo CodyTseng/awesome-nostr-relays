@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-09-08 04:34:25 UTC*
+*Last updated: 2025-09-08 04:35:44 UTC*
 
 ## Popular
 
@@ -32,6 +32,7 @@ Relays that focus on community-driven content and curation
 - [wss://theforest.nostr1.com/](https://jumble.social/?r=wss://theforest.nostr1.com/)
 - [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
 - [wss://relay.nostr.moe/](https://jumble.social/?r=wss://relay.nostr.moe/)
+- [wss://noornode.nostr1.com/](https://jumble.social/?r=wss://noornode.nostr1.com/)
 
 ## Language Communities
 

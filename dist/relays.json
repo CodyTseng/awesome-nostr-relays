@@ -80,6 +80,7 @@
     "wss://lang.relays.land/zu",
     "wss://lockbox.relays.land/",
     "wss://news.utxo.one/",
+    "wss://noornode.nostr1.com/",
     "wss://nos.lol/",
     "wss://nostr.mom/",
     "wss://nostr.wine/",
@@ -95,5 +96,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1757306065
+  "last_updated": 1757306144
 }
