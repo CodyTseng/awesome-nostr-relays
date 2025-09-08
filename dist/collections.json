@@ -35,7 +35,8 @@
         "wss://theforest.nostr1.com/",
         "wss://relays.land/spatianostra",
         "wss://relay.nostr.moe/",
-        "wss://noornode.nostr1.com/"
+        "wss://noornode.nostr1.com/",
+        "wss://primus.nostr1.com/"
       ]
     },
     {
@@ -133,5 +134,5 @@
       ]
     }
   ],
-  "last_updated": 1757306144
+  "last_updated": 1757340056
 }

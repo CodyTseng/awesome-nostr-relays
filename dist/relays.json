@@ -86,6 +86,7 @@
     "wss://nostr.wine/",
     "wss://personal.relays.land/",
     "wss://pow.relays.land/",
+    "wss://primus.nostr1.com/",
     "wss://pyramid.fiatjaf.com/",
     "wss://relay.damus.io/",
     "wss://relay.nostr.moe/",
@@ -96,5 +97,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1757306144
+  "last_updated": 1757340056
 }
