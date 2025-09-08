@@ -5,6 +5,8 @@
 
 A curated collection of interesting Nostr relays, organized by collections for easy discovery.
 
+**[📋 Browse All Relays](./AWESOME_RELAYS.md)**
+
 ## 🚀 Quick Start
 
 ### For Developers
