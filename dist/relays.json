@@ -94,8 +94,11 @@
     "wss://relay.stream/",
     "wss://relays.land/spatianostra",
     "wss://theforest.nostr1.com/",
+    "wss://topic.relays.land/left",
+    "wss://topic.relays.land/uncommon",
+    "wss://topic.relays.land/whales",
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1757340056
+  "last_updated": 1757384577
 }

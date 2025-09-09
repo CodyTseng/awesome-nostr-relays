@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-09-08 14:00:56 UTC*
+*Last updated: 2025-09-09 02:22:57 UTC*
 
 ## Popular
 
@@ -10,6 +10,14 @@ Relays with a large user base and high activity levels
 - [wss://theforest.nostr1.com/](https://jumble.social/?r=wss://theforest.nostr1.com/)
 - [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
 - [wss://140.f7z.io/](https://jumble.social/?r=wss://140.f7z.io/)
+
+## Topic-Focused
+
+Relays dedicated to specific topics
+
+- [wss://topic.relays.land/whales](https://jumble.social/?r=wss://topic.relays.land/whales)
+- [wss://topic.relays.land/left](https://jumble.social/?r=wss://topic.relays.land/left)
+- [wss://topic.relays.land/uncommon](https://jumble.social/?r=wss://topic.relays.land/uncommon)
 
 ## Specialized & Algorithmic
 
