@@ -1,27 +1,29 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-09-09 02:22:57 UTC*
+*Last updated: 2025-09-09 08:08:01 UTC*
 
-## Popular
+## Curated Communities
 
-Relays with a large user base and high activity levels
+Relays that focus on community-driven content and curation
 
 - [wss://pyramid.fiatjaf.com/](https://jumble.social/?r=wss://pyramid.fiatjaf.com/)
 - [wss://theforest.nostr1.com/](https://jumble.social/?r=wss://theforest.nostr1.com/)
 - [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
-- [wss://140.f7z.io/](https://jumble.social/?r=wss://140.f7z.io/)
+- [wss://noornode.nostr1.com/](https://jumble.social/?r=wss://noornode.nostr1.com/)
+- [wss://primus.nostr1.com/](https://jumble.social/?r=wss://primus.nostr1.com/)
+- [wss://relay.nostr.moe/](https://jumble.social/?r=wss://relay.nostr.moe/)
 
-## Topic-Focused
+## Interest Groups
 
-Relays dedicated to specific topics
+Connect with people who share your specific interests and hobbies
 
 - [wss://topic.relays.land/whales](https://jumble.social/?r=wss://topic.relays.land/whales)
 - [wss://topic.relays.land/left](https://jumble.social/?r=wss://topic.relays.land/left)
 - [wss://topic.relays.land/uncommon](https://jumble.social/?r=wss://topic.relays.land/uncommon)
 
-## Specialized & Algorithmic
+## Special Purpose
 
-Relays with unique content curation algorithms and specialized filtering mechanisms
+Relays with unique filtering rules and display mechanisms
 
 - [wss://lockbox.relays.land/](https://jumble.social/?r=wss://lockbox.relays.land/)
 - [wss://impromptu.relays.land/](https://jumble.social/?r=wss://impromptu.relays.land/)
@@ -30,22 +32,18 @@ Relays with unique content curation algorithms and specialized filtering mechani
 - [wss://zapbox.relays.land/](https://jumble.social/?r=wss://zapbox.relays.land/)
 - [wss://bookmarks.relays.land/](https://jumble.social/?r=wss://bookmarks.relays.land/)
 - [wss://personal.relays.land/](https://jumble.social/?r=wss://personal.relays.land/)
+- [wss://140.f7z.io/](https://jumble.social/?r=wss://140.f7z.io/)
+
+## Automated Feeds
+
+Relays with bot-generated content and automated posting
+
 - [wss://news.utxo.one/](https://jumble.social/?r=wss://news.utxo.one/)
 - [wss://relay.stream/](https://jumble.social/?r=wss://relay.stream/)
 
-## Community & Curated
-
-Relays that focus on community-driven content and curation
-
-- [wss://theforest.nostr1.com/](https://jumble.social/?r=wss://theforest.nostr1.com/)
-- [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
-- [wss://relay.nostr.moe/](https://jumble.social/?r=wss://relay.nostr.moe/)
-- [wss://noornode.nostr1.com/](https://jumble.social/?r=wss://noornode.nostr1.com/)
-- [wss://primus.nostr1.com/](https://jumble.social/?r=wss://primus.nostr1.com/)
-
 ## Language Communities
 
-Relays designed for specific language communities
+Find and chat with people who speak your language
 
 - [wss://yabu.me/](https://jumble.social/?r=wss://yabu.me/)
 - [wss://lang.relays.land/af](https://jumble.social/?r=wss://lang.relays.land/af)
@@ -123,9 +121,9 @@ Relays designed for specific language communities
 - [wss://lang.relays.land/zh](https://jumble.social/?r=wss://lang.relays.land/zh)
 - [wss://lang.relays.land/zu](https://jumble.social/?r=wss://lang.relays.land/zu)
 
-## Global & General
+## Global Feeds
 
-Relays with a broad, international user base and diverse content
+Widely-used relays that serve as general content feeds
 
 - [wss://relay.damus.io/](https://jumble.social/?r=wss://relay.damus.io/)
 - [wss://nos.lol/](https://jumble.social/?r=wss://nos.lol/)

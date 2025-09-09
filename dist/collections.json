@@ -1,20 +1,22 @@
 {
   "collections": [
     {
-      "id": "popular",
-      "name": "Popular",
-      "description": "Relays with a large user base and high activity levels",
+      "id": "community",
+      "name": "Curated Communities",
+      "description": "Relays that focus on community-driven content and curation",
       "relays": [
         "wss://pyramid.fiatjaf.com/",
         "wss://theforest.nostr1.com/",
         "wss://relays.land/spatianostra",
-        "wss://140.f7z.io/"
+        "wss://noornode.nostr1.com/",
+        "wss://primus.nostr1.com/",
+        "wss://relay.nostr.moe/"
       ]
     },
     {
       "id": "topic",
-      "name": "Topic-Focused",
-      "description": "Relays dedicated to specific topics",
+      "name": "Interest Groups",
+      "description": "Connect with people who share your specific interests and hobbies",
       "relays": [
         "wss://topic.relays.land/whales",
         "wss://topic.relays.land/left",
@@ -23,8 +25,8 @@
     },
     {
       "id": "special",
-      "name": "Specialized & Algorithmic",
-      "description": "Relays with unique content curation algorithms and specialized filtering mechanisms",
+      "name": "Special Purpose",
+      "description": "Relays with unique filtering rules and display mechanisms",
       "relays": [
         "wss://lockbox.relays.land/",
         "wss://impromptu.relays.land/",
@@ -33,26 +35,22 @@
         "wss://zapbox.relays.land/",
         "wss://bookmarks.relays.land/",
         "wss://personal.relays.land/",
+        "wss://140.f7z.io/"
+      ]
+    },
+    {
+      "id": "bot",
+      "name": "Automated Feeds",
+      "description": "Relays with bot-generated content and automated posting",
+      "relays": [
         "wss://news.utxo.one/",
         "wss://relay.stream/"
       ]
     },
     {
-      "id": "community",
-      "name": "Community & Curated",
-      "description": "Relays that focus on community-driven content and curation",
-      "relays": [
-        "wss://theforest.nostr1.com/",
-        "wss://relays.land/spatianostra",
-        "wss://relay.nostr.moe/",
-        "wss://noornode.nostr1.com/",
-        "wss://primus.nostr1.com/"
-      ]
-    },
-    {
       "id": "language",
       "name": "Language Communities",
-      "description": "Relays designed for specific language communities",
+      "description": "Find and chat with people who speak your language",
       "relays": [
         "wss://yabu.me/",
         "wss://lang.relays.land/af",
@@ -133,8 +131,8 @@
     },
     {
       "id": "global",
-      "name": "Global & General",
-      "description": "Relays with a broad, international user base and diverse content",
+      "name": "Global Feeds",
+      "description": "Widely-used relays that serve as general content feeds",
       "relays": [
         "wss://relay.damus.io/",
         "wss://nos.lol/",
@@ -144,5 +142,5 @@
       ]
     }
   ],
-  "last_updated": 1757384577
+  "last_updated": 1757405281
 }
