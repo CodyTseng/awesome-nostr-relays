@@ -13,6 +13,14 @@ collections:
       - "wss://relays.land/spatianostra"
       - "wss://140.f7z.io/"
 
+  - id: "topic"
+    name: "Topic-Focused"
+    description: "Relays dedicated to specific topics"
+    relays:
+      - "wss://topic.relays.land/whales"
+      - "wss://topic.relays.land/left"
+      - "wss://topic.relays.land/uncommon"
+
   - id: "special"
     name: "Specialized & Algorithmic"
     description: "Relays with unique content curation algorithms and specialized filtering mechanisms"
