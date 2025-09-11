@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-09-09 08:08:01 UTC*
+*Last updated: 2025-09-11 01:48:50 UTC*
 
 ## Curated Communities
 
@@ -17,6 +17,9 @@ Relays that focus on community-driven content and curation
 
 Connect with people who share your specific interests and hobbies
 
+- [wss://topic.relays.land/praise](https://jumble.social/?r=wss://topic.relays.land/praise)
+- [wss://topic.relays.land/complaint](https://jumble.social/?r=wss://topic.relays.land/complaint)
+- [wss://topic.relays.land/ask](https://jumble.social/?r=wss://topic.relays.land/ask)
 - [wss://topic.relays.land/whales](https://jumble.social/?r=wss://topic.relays.land/whales)
 - [wss://topic.relays.land/left](https://jumble.social/?r=wss://topic.relays.land/left)
 - [wss://topic.relays.land/uncommon](https://jumble.social/?r=wss://topic.relays.land/uncommon)
