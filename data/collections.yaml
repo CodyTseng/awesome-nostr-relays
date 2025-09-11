@@ -19,6 +19,9 @@ collections:
     name: "Interest Groups"
     description: "Connect with people who share your specific interests and hobbies"
     relays:
+      - "wss://topic.relays.land/praise"
+      - "wss://topic.relays.land/complaint"
+      - "wss://topic.relays.land/ask"
       - "wss://topic.relays.land/whales"
       - "wss://topic.relays.land/left"
       - "wss://topic.relays.land/uncommon"
