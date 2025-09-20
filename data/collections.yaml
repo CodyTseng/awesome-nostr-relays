@@ -135,3 +135,12 @@ collections:
       - "wss://nostr.mom/"
       - "wss://relay.primal.net/"
       - "wss://nostr.wine/"
+      - "wss://nostr-01.yakihonne.com/"
+      - "wss://nostr-02.yakihonne.com/"
+      
+  - id: "creations"
+    name: "Creations Feeds"
+    description: "Publish & discover creations: articles, videos, curated collections"
+    relays:
+      - "wss://nostr-01.yakihonne.com/"
+      - "wss://nostr-02.yakihonne.com/"
