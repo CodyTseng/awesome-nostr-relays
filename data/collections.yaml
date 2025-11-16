@@ -39,6 +39,18 @@ collections:
       - "wss://personal.relays.land/"
       - "wss://140.f7z.io/"
 
+  - id: "global"
+    name: "Global Feeds"
+    description: "Widely-used relays that serve as general content feeds"
+    relays:
+      - "wss://relay.damus.io/"
+      - "wss://nos.lol/"
+      - "wss://nostr.mom/"
+      - "wss://relay.primal.net/"
+      - "wss://nostr.wine/"
+      - "wss://nostr-01.yakihonne.com/"
+      - "wss://ditto.pub/relay"
+
   - id: "bot"
     name: "Automated Feeds"
     description: "Relays with bot-generated content and automated posting"
@@ -126,12 +138,3 @@ collections:
       - "wss://lang.relays.land/zh" # Chinese
       - "wss://lang.relays.land/zu" # Zulu
 
-  - id: "global"
-    name: "Global Feeds"
-    description: "Widely-used relays that serve as general content feeds"
-    relays:
-      - "wss://relay.damus.io/"
-      - "wss://nos.lol/"
-      - "wss://nostr.mom/"
-      - "wss://relay.primal.net/"
-      - "wss://nostr.wine/"
