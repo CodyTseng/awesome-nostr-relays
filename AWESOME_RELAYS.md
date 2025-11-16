@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-09-11 01:48:50 UTC*
+*Last updated: 2025-11-16 07:38:59 UTC*
 
 ## Curated Communities
 
@@ -36,6 +36,18 @@ Relays with unique filtering rules and display mechanisms
 - [wss://bookmarks.relays.land/](https://jumble.social/?r=wss://bookmarks.relays.land/)
 - [wss://personal.relays.land/](https://jumble.social/?r=wss://personal.relays.land/)
 - [wss://140.f7z.io/](https://jumble.social/?r=wss://140.f7z.io/)
+
+## Global Feeds
+
+Widely-used relays that serve as general content feeds
+
+- [wss://relay.damus.io/](https://jumble.social/?r=wss://relay.damus.io/)
+- [wss://nos.lol/](https://jumble.social/?r=wss://nos.lol/)
+- [wss://nostr.mom/](https://jumble.social/?r=wss://nostr.mom/)
+- [wss://relay.primal.net/](https://jumble.social/?r=wss://relay.primal.net/)
+- [wss://nostr.wine/](https://jumble.social/?r=wss://nostr.wine/)
+- [wss://nostr-01.yakihonne.com/](https://jumble.social/?r=wss://nostr-01.yakihonne.com/)
+- [wss://ditto.pub/relay](https://jumble.social/?r=wss://ditto.pub/relay)
 
 ## Automated Feeds
 
@@ -123,14 +135,4 @@ Find and chat with people who speak your language
 - [wss://lang.relays.land/yo](https://jumble.social/?r=wss://lang.relays.land/yo)
 - [wss://lang.relays.land/zh](https://jumble.social/?r=wss://lang.relays.land/zh)
 - [wss://lang.relays.land/zu](https://jumble.social/?r=wss://lang.relays.land/zu)
-
-## Global Feeds
-
-Widely-used relays that serve as general content feeds
-
-- [wss://relay.damus.io/](https://jumble.social/?r=wss://relay.damus.io/)
-- [wss://nos.lol/](https://jumble.social/?r=wss://nos.lol/)
-- [wss://nostr.mom/](https://jumble.social/?r=wss://nostr.mom/)
-- [wss://relay.primal.net/](https://jumble.social/?r=wss://relay.primal.net/)
-- [wss://nostr.wine/](https://jumble.social/?r=wss://nostr.wine/)
 

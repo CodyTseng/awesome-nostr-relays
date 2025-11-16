@@ -2,6 +2,7 @@
   "relays": [
     "wss://140.f7z.io/",
     "wss://bookmarks.relays.land/",
+    "wss://ditto.pub/relay",
     "wss://feedback.relays.land/",
     "wss://impromptu.relays.land/",
     "wss://lang.relays.land/af",
@@ -82,6 +83,7 @@
     "wss://news.utxo.one/",
     "wss://noornode.nostr1.com/",
     "wss://nos.lol/",
+    "wss://nostr-01.yakihonne.com/",
     "wss://nostr.mom/",
     "wss://nostr.wine/",
     "wss://personal.relays.land/",
@@ -103,5 +105,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1757555330
+  "last_updated": 1763278739
 }
