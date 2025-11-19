@@ -52,7 +52,8 @@
         "wss://relay.primal.net/",
         "wss://nostr.wine/",
         "wss://nostr-01.yakihonne.com/",
-        "wss://ditto.pub/relay"
+        "wss://ditto.pub/relay",
+        "wss://relay.divine.video/"
       ]
     },
     {
@@ -147,5 +148,5 @@
       ]
     }
   ],
-  "last_updated": 1763278739
+  "last_updated": 1763561079
 }

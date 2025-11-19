@@ -91,6 +91,7 @@
     "wss://primus.nostr1.com/",
     "wss://pyramid.fiatjaf.com/",
     "wss://relay.damus.io/",
+    "wss://relay.divine.video/",
     "wss://relay.nostr.moe/",
     "wss://relay.primal.net/",
     "wss://relay.stream/",
@@ -105,5 +106,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1763278739
+  "last_updated": 1763561079
 }

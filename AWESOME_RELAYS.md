@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-11-16 07:38:59 UTC*
+*Last updated: 2025-11-19 14:04:39 UTC*
 
 ## Curated Communities
 
@@ -48,6 +48,7 @@ Widely-used relays that serve as general content feeds
 - [wss://nostr.wine/](https://jumble.social/?r=wss://nostr.wine/)
 - [wss://nostr-01.yakihonne.com/](https://jumble.social/?r=wss://nostr-01.yakihonne.com/)
 - [wss://ditto.pub/relay](https://jumble.social/?r=wss://ditto.pub/relay)
+- [wss://relay.divine.video/](https://jumble.social/?r=wss://relay.divine.video/)
 
 ## Automated Feeds
 
