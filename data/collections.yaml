@@ -50,6 +50,7 @@ collections:
       - "wss://nostr.wine/"
       - "wss://nostr-01.yakihonne.com/"
       - "wss://ditto.pub/relay"
+      - "wss://relay.divine.video/"
 
   - id: "bot"
     name: "Automated Feeds"
