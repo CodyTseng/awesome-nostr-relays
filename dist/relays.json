@@ -103,8 +103,9 @@
     "wss://topic.relays.land/praise",
     "wss://topic.relays.land/uncommon",
     "wss://topic.relays.land/whales",
+    "wss://trending.relays.land/",
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1763561079
+  "last_updated": 1763690627
 }

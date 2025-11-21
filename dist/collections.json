@@ -1,11 +1,19 @@
 {
   "collections": [
     {
+      "id": "featured",
+      "name": "Featured",
+      "description": "Hand-picked top relays",
+      "relays": [
+        "wss://trending.relays.land/",
+        "wss://pyramid.fiatjaf.com/"
+      ]
+    },
+    {
       "id": "community",
       "name": "Curated Communities",
       "description": "Relays that focus on community-driven content and curation",
       "relays": [
-        "wss://pyramid.fiatjaf.com/",
         "wss://theforest.nostr1.com/",
         "wss://relays.land/spatianostra",
         "wss://noornode.nostr1.com/",
@@ -148,5 +156,5 @@
       ]
     }
   ],
-  "last_updated": 1763561079
+  "last_updated": 1763690627
 }

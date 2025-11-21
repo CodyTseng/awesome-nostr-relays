@@ -1,12 +1,18 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-11-19 14:04:39 UTC*
+*Last updated: 2025-11-21 02:03:47 UTC*
+
+## Featured
+
+Hand-picked top relays
+
+- [wss://trending.relays.land/](https://jumble.social/?r=wss://trending.relays.land/)
+- [wss://pyramid.fiatjaf.com/](https://jumble.social/?r=wss://pyramid.fiatjaf.com/)
 
 ## Curated Communities
 
 Relays that focus on community-driven content and curation
 
-- [wss://pyramid.fiatjaf.com/](https://jumble.social/?r=wss://pyramid.fiatjaf.com/)
 - [wss://theforest.nostr1.com/](https://jumble.social/?r=wss://theforest.nostr1.com/)
 - [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
 - [wss://noornode.nostr1.com/](https://jumble.social/?r=wss://noornode.nostr1.com/)
