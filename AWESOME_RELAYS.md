@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-11-21 02:03:47 UTC*
+*Last updated: 2025-12-06 15:50:24 UTC*
 
 ## Featured
 
@@ -17,6 +17,7 @@ Relays that focus on community-driven content and curation
 - [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
 - [wss://noornode.nostr1.com/](https://jumble.social/?r=wss://noornode.nostr1.com/)
 - [wss://primus.nostr1.com/](https://jumble.social/?r=wss://primus.nostr1.com/)
+- [wss://christpill.nostr1.com/](https://jumble.social/?r=wss://christpill.nostr1.com/)
 - [wss://relay.nostr.moe/](https://jumble.social/?r=wss://relay.nostr.moe/)
 
 ## Interest Groups

@@ -18,6 +18,7 @@
         "wss://relays.land/spatianostra",
         "wss://noornode.nostr1.com/",
         "wss://primus.nostr1.com/",
+        "wss://christpill.nostr1.com/",
         "wss://relay.nostr.moe/"
       ]
     },
@@ -156,5 +157,5 @@
       ]
     }
   ],
-  "last_updated": 1763690627
+  "last_updated": 1765036224
 }
