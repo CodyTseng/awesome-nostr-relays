@@ -19,6 +19,7 @@ collections:
       - "wss://relays.land/spatianostra"
       - "wss://noornode.nostr1.com/"
       - "wss://primus.nostr1.com/"
+      - "wss://christpill.nostr1.com/"
       - "wss://relay.nostr.moe/"
 
   - id: "topic"
