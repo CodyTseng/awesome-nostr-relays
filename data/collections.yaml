@@ -45,6 +45,7 @@ collections:
       - "wss://bookmarks.relays.land/"
       - "wss://personal.relays.land/"
       - "wss://140.f7z.io/"
+      - "wss://bucket.coracle.social/"
 
   - id: "global"
     name: "Global Feeds"
@@ -70,6 +71,7 @@ collections:
     name: "Language Communities"
     description: "Find and chat with people who speak your language"
     relays:
+      - "wss://relay.nostrzh.org/" # Chinese (pyramid)
       - "wss://yabu.me/" # Japanese (aggregator)
       - "wss://lang.relays.land/af" # Afrikaans
       - "wss://lang.relays.land/ar" # Arabic
