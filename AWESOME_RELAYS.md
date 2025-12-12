@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-12-06 15:50:24 UTC*
+*Last updated: 2025-12-12 15:17:37 UTC*
 
 ## Featured
 
@@ -43,6 +43,7 @@ Relays with unique filtering rules and display mechanisms
 - [wss://bookmarks.relays.land/](https://jumble.social/?r=wss://bookmarks.relays.land/)
 - [wss://personal.relays.land/](https://jumble.social/?r=wss://personal.relays.land/)
 - [wss://140.f7z.io/](https://jumble.social/?r=wss://140.f7z.io/)
+- [wss://bucket.coracle.social/](https://jumble.social/?r=wss://bucket.coracle.social/)
 
 ## Global Feeds
 
@@ -68,6 +69,7 @@ Relays with bot-generated content and automated posting
 
 Find and chat with people who speak your language
 
+- [wss://relay.nostrzh.org/](https://jumble.social/?r=wss://relay.nostrzh.org/)
 - [wss://yabu.me/](https://jumble.social/?r=wss://yabu.me/)
 - [wss://lang.relays.land/af](https://jumble.social/?r=wss://lang.relays.land/af)
 - [wss://lang.relays.land/ar](https://jumble.social/?r=wss://lang.relays.land/ar)

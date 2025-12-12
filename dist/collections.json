@@ -47,7 +47,8 @@
         "wss://zapbox.relays.land/",
         "wss://bookmarks.relays.land/",
         "wss://personal.relays.land/",
-        "wss://140.f7z.io/"
+        "wss://140.f7z.io/",
+        "wss://bucket.coracle.social/"
       ]
     },
     {
@@ -79,6 +80,7 @@
       "name": "Language Communities",
       "description": "Find and chat with people who speak your language",
       "relays": [
+        "wss://relay.nostrzh.org/",
         "wss://yabu.me/",
         "wss://lang.relays.land/af",
         "wss://lang.relays.land/ar",
@@ -157,5 +159,5 @@
       ]
     }
   ],
-  "last_updated": 1765036224
+  "last_updated": 1765552657
 }

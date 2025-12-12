@@ -2,6 +2,7 @@
   "relays": [
     "wss://140.f7z.io/",
     "wss://bookmarks.relays.land/",
+    "wss://bucket.coracle.social/",
     "wss://christpill.nostr1.com/",
     "wss://ditto.pub/relay",
     "wss://feedback.relays.land/",
@@ -94,6 +95,7 @@
     "wss://relay.damus.io/",
     "wss://relay.divine.video/",
     "wss://relay.nostr.moe/",
+    "wss://relay.nostrzh.org/",
     "wss://relay.primal.net/",
     "wss://relay.stream/",
     "wss://relays.land/spatianostra",
@@ -108,5 +110,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1765036224
+  "last_updated": 1765552657
 }
