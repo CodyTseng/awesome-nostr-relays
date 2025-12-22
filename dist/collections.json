@@ -63,7 +63,8 @@
         "wss://nostr.wine/",
         "wss://nostr-01.yakihonne.com/",
         "wss://ditto.pub/relay",
-        "wss://relay.divine.video/"
+        "wss://relay.divine.video/",
+        "wss://nostr.superfriends.online/"
       ]
     },
     {
@@ -159,5 +160,5 @@
       ]
     }
   ],
-  "last_updated": 1765552657
+  "last_updated": 1766386691
 }

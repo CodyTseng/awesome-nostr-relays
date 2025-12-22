@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-12-12 15:17:37 UTC*
+*Last updated: 2025-12-22 06:58:11 UTC*
 
 ## Featured
 
@@ -57,6 +57,7 @@ Widely-used relays that serve as general content feeds
 - [wss://nostr-01.yakihonne.com/](https://jumble.social/?r=wss://nostr-01.yakihonne.com/)
 - [wss://ditto.pub/relay](https://jumble.social/?r=wss://ditto.pub/relay)
 - [wss://relay.divine.video/](https://jumble.social/?r=wss://relay.divine.video/)
+- [wss://nostr.superfriends.online/](https://jumble.social/?r=wss://nostr.superfriends.online/)
 
 ## Automated Feeds
 

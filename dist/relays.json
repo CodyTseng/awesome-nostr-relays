@@ -87,6 +87,7 @@
     "wss://nos.lol/",
     "wss://nostr-01.yakihonne.com/",
     "wss://nostr.mom/",
+    "wss://nostr.superfriends.online/",
     "wss://nostr.wine/",
     "wss://personal.relays.land/",
     "wss://pow.relays.land/",
@@ -110,5 +111,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1765552657
+  "last_updated": 1766386691
 }
