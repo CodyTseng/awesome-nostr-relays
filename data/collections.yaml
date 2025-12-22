@@ -59,6 +59,7 @@ collections:
       - "wss://nostr-01.yakihonne.com/"
       - "wss://ditto.pub/relay"
       - "wss://relay.divine.video/"
+      - "wss://nostr.superfriends.online/"
 
   - id: "bot"
     name: "Automated Feeds"
