@@ -15,6 +15,7 @@ collections:
     name: "Curated Communities"
     description: "Relays that focus on community-driven content and curation"
     relays:
+      - "wss://relay.44billion.net/"
       - "wss://theforest.nostr1.com/"
       - "wss://relays.land/spatianostra"
       - "wss://noornode.nostr1.com/"
@@ -74,6 +75,10 @@ collections:
     relays:
       - "wss://relay.nostrzh.org/" # Chinese (pyramid)
       - "wss://yabu.me/" # Japanese (aggregator)
+      - "wss://relay.44billion.net/.well-known/nip50/sort:top/language:en" # English (trending)
+      - "wss://relay.44billion.net/.well-known/nip50/is:popular/language:en" # English (influencers)
+      - "wss://relay.44billion.net/.well-known/nip50/sort:top/language:pt" # Portuguese (trending)
+      - "wss://relay.44billion.net/.well-known/nip50/is:popular/language:pt" # Portuguese (influencers)
       - "wss://lang.relays.land/af" # Afrikaans
       - "wss://lang.relays.land/ar" # Arabic
       - "wss://lang.relays.land/az" # Azerbaijani
