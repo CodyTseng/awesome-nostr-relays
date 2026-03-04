@@ -1,6 +1,6 @@
 # Awesome Nostr Relays
 
-*Last updated: 2025-12-22 06:58:11 UTC*
+*Last updated: 2026-03-04 01:08:32 UTC*
 
 ## Featured
 
@@ -13,6 +13,7 @@ Hand-picked top relays
 
 Relays that focus on community-driven content and curation
 
+- [wss://relay.44billion.net/](https://jumble.social/?r=wss://relay.44billion.net/)
 - [wss://theforest.nostr1.com/](https://jumble.social/?r=wss://theforest.nostr1.com/)
 - [wss://relays.land/spatianostra](https://jumble.social/?r=wss://relays.land/spatianostra)
 - [wss://noornode.nostr1.com/](https://jumble.social/?r=wss://noornode.nostr1.com/)
@@ -72,6 +73,10 @@ Find and chat with people who speak your language
 
 - [wss://relay.nostrzh.org/](https://jumble.social/?r=wss://relay.nostrzh.org/)
 - [wss://yabu.me/](https://jumble.social/?r=wss://yabu.me/)
+- [wss://relay.44billion.net/.well-known/nip50/sort:top/language:en](https://jumble.social/?r=wss://relay.44billion.net/.well-known/nip50/sort:top/language:en)
+- [wss://relay.44billion.net/.well-known/nip50/is:popular/language:en](https://jumble.social/?r=wss://relay.44billion.net/.well-known/nip50/is:popular/language:en)
+- [wss://relay.44billion.net/.well-known/nip50/sort:top/language:pt](https://jumble.social/?r=wss://relay.44billion.net/.well-known/nip50/sort:top/language:pt)
+- [wss://relay.44billion.net/.well-known/nip50/is:popular/language:pt](https://jumble.social/?r=wss://relay.44billion.net/.well-known/nip50/is:popular/language:pt)
 - [wss://lang.relays.land/af](https://jumble.social/?r=wss://lang.relays.land/af)
 - [wss://lang.relays.land/ar](https://jumble.social/?r=wss://lang.relays.land/ar)
 - [wss://lang.relays.land/az](https://jumble.social/?r=wss://lang.relays.land/az)
