@@ -96,6 +96,8 @@
     "wss://relay.44billion.net/",
     "wss://relay.44billion.net/.well-known/nip50/is:popular/language:en",
     "wss://relay.44billion.net/.well-known/nip50/is:popular/language:pt",
+    "wss://relay.44billion.net/.well-known/nip50/is:rising/sort:top/language:en",
+    "wss://relay.44billion.net/.well-known/nip50/is:rising/sort:top/language:pt",
     "wss://relay.44billion.net/.well-known/nip50/sort:top/language:en",
     "wss://relay.44billion.net/.well-known/nip50/sort:top/language:pt",
     "wss://relay.damus.io/",
@@ -116,5 +118,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1772586512
+  "last_updated": 1772814270
 }
