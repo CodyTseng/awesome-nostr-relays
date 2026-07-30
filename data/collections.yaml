@@ -61,6 +61,7 @@ collections:
       - "wss://ditto.pub/relay"
       - "wss://relay.divine.video/"
       - "wss://nostr.superfriends.online/"
+      - "wss://relay.damustr.com/"
 
   - id: "bot"
     name: "Automated Feeds"
