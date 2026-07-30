@@ -101,6 +101,7 @@
     "wss://relay.44billion.net/.well-known/nip50/sort:top/language:en",
     "wss://relay.44billion.net/.well-known/nip50/sort:top/language:pt",
     "wss://relay.damus.io/",
+    "wss://relay.damustr.com/",
     "wss://relay.divine.video/",
     "wss://relay.nostr.moe/",
     "wss://relay.nostrzh.org/",
@@ -118,5 +119,5 @@
     "wss://yabu.me/",
     "wss://zapbox.relays.land/"
   ],
-  "last_updated": 1772814270
+  "last_updated": 1785427137
 }
