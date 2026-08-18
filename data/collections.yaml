@@ -62,6 +62,7 @@ collections:
       - "wss://relay.divine.video/"
       - "wss://nostr.superfriends.online/"
       - "wss://relay.damustr.com/"
+      - "wss://relay.catk.fun/" # catkfun (wt geohash relay)
 
   - id: "bot"
     name: "Automated Feeds"
